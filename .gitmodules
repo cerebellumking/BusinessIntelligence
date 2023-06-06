@@ -1,3 +1,9 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = git@github.com:cerebellumking/BusinessIntelligence-BackEnd.git
+[submodule "BackEnd-websocket"]
+	path = BackEnd-websocket
+	url = git@github.com:cerebellumking/BusinessIntelligenceBackEnd---WebSocket.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = git@github.com:cerebellumking/BusinessIntelligence-FrontEnd.git
